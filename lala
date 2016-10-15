@@ -1,0 +1,34 @@
+### Historia de usuario 22 ###
+*Como* jugador *quiero* que los turnos en los combates se decidan en base a la agilidad de cada personaje *para* que haya un orden al atacar.  
+**Criterio de Aceptación**  
+El orden en el que los jugadores atacaran a un enemigo es en base a la agilidad de los personajes, el que posea mayor agilidad es el personaje que efectuara el primer ataque, el que le sigue en agilidad, efectuara el segundo ataque y así sucesivamente hasta que no haya más participantes, en ese caso volverá con el personaje de mayor agilidad.
+
+### Historia de usuario 23 ###
+*Como* jugador *quiero* que un mago pueda atacar sin necesitar de la magia *para* que no esté indefenso al momento de la batalla.  
+**Criterio de Aceptación**  
+El mago no solo ataca con magia, sino también con un ataque normal como el de los demás personajes gastando energía.
+
+### Historia de usuario 24 ###
+*Como* jugador *quiero* poder huir de un combate siempre y cuando no este aliado con nadie *para* poder seguir mi camino.  
+**Criterio de Aceptación**  
+Un personaje que no se encuentre en una alianza puede abandonar el combate en cualquier momento, aunque esto se penalice con la perdida de algún ítem. 
+
+### Historia de usuario 25 ###
+*Como* jugador *quiero* que al huir de un combate estando en una alianza, todos los miembros de la alianza elijan huir *para* que se de por finalizada la batalla.  
+**Criterio de Aceptación**  
+La única forma de que un personaje estando en una alianza puede huir de un combate ya comenzado es que el resto de sus compañeros en la alianza también expresen la decisión de abandonar la batalla, si todos los personajes quieren huir del combate, podrán hacerlo, pero se le restara un ítem a cada miembro de la alianza.
+
+### Historia de usuario 26 ###
+*Como* jugador *quiero* que al aliarme con un personaje que es miembro de una alianza, automáticamente me alíe con los demás miembros de esa alianza *para* luchar con ellos.  
+**Criterio de Aceptación**  
+Cuando un personaje perteneciente a una alianza decide aliarse con otro personaje que pertenece a otra alianza, el resultado es una sola alianza que contiene a ambas alianzas a las que pertenecían los personajes, esto es a pesar de que el resto de los integrantes de las alianzas estén o no de acuerdo.   
+
+### Historia de usuario 27 ###
+*Como* jugador *quiero* que durante una batalla un personaje pueda atacar siempre y cuando posea la energía suficiente *para* efectuar su ataque.  
+**Criterio de Aceptación**  
+Durante la batalla un personaje agotara su energía la cual ira aumentando parcialmente en cada turno de cada personaje/enemigo en dicha batalla. El ataque de cada personaje requiere el gasto de cierta energía, de no poseer esta cantidad, el personaje no podrá efectuar su ataque y pasara el turno al siguiente.
+
+### Historia de usuario 28 ###
+*Como* jugador *quiero* que el mago pueda utilizar magia siempre y cuando posea la magia suficiente *para* realizar ese hechizo.  
+**Criterio de Aceptación**  
+El mago podrá utilizar diferentes hechizos los cuales tendrán diferentes costos de magia. Si el indicador de magia no es el suficiente al que requiere dicha magia, el hechizo no podrá ser efectuado.
