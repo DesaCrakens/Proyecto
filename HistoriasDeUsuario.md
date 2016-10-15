@@ -1,6 +1,6 @@
 ### Historia de usuario 1 ###
-*Como* jugador *quiero* crear mi personaje, editando sus características principales como raza y casta *para* verme reflejado en mi avatar
- **Criterio de Aceptación** 
+*Como* jugador *quiero* crear mi personaje, editando sus características principales como raza y casta *para* verme reflejado en mi avatar  
+ **Criterio de Aceptación**  
 El jugador elegirá un nombre para su personaje, seguido de una raza y casta las cuales definirán las características iniciales del personaje así como también el modo de atacar o en que se destacara (Inteligencia, fuerza, agilidad).
 
 ### Historia de usuario 2 ###
