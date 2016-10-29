@@ -99,14 +99,14 @@ Dado un personaje y un objeto atacable cuando el personaje destruya el objeto en
 Dados diez jugadores cuando se conecten todos al mismo mapa entonces pueden formar alianzas o batallar entre ellos.
 
 ### Historia de usuario 20 ###
-*Como* jugador *quiero* que los turnos de los batallones en los combates se decidan en base a la suma de los puntos de ataque de los personajes que conforman el batallón *para* que haya un orden al atacar.  
+*Como* jugador *quiero* que los turnos de los batallones en los combates se decidan en base a la suma de los puntos de agilidad de los personajes que conforman el batallón *para* que haya un orden al atacar.  
 **Criterio de Aceptación**  
-Dados dos batallones que entran en batalla cuando la suma de los puntos de ataque de los personajes de un batallón supera a la suma del otro, entonces ese ataca primero.
+Dados dos batallones que entran en batalla cuando la suma de los puntos de agilidad de los personajes de un batallón supera a la suma del otro, entonces ese ataca primero.
 
 ### Historia de usuario 21 ###
-*Como* jugador *quiero* que los turnos de los personajes dentro del batallón en los combates se decidan en base a los puntos de ataque de cada personaje *para* que haya un orden al atacar.  
+*Como* jugador *quiero* que los turnos de los personajes dentro del batallón en los combates se decidan en base a los puntos de agilidad de cada personaje *para* que haya un orden al atacar.  
 **Criterio de Aceptación**  
-Dado un batallón cuando se encuentran en combate se ordenan los personajes de acuerdo a sus puntos de ataque entonces el de mayor cantidad de puntos de ataque es el primero en atacar.
+Dado un batallón cuando se encuentran en combate se ordenan los personajes de acuerdo a sus puntos de agilidad entonces el de mayor cantidad de puntos de agilidad es el primero en atacar.
 
 ### Historia de usuario 22 ###
 *Como* jugador *quiero* que un mago pueda atacar sin necesitar de la magia *para* que no esté indefenso al momento de la batalla.  
